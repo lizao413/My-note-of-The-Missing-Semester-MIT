@@ -4,3 +4,5 @@
 It means file1 taking the input of file1.
 ### "file1 > file2"
 It means rewiring the output of file1 into file2
+### "file1 | file2"
+It means 
